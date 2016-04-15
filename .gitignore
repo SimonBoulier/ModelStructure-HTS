@@ -2,6 +2,7 @@
 *.dpd
 *.dot
 paper/auto
+Makefile
 
 ##Coq
 *.vo
