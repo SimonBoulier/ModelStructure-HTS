@@ -17,4 +17,4 @@ in HTS/Overture.v for the details.
 ## Coq dpd-graph ##
 
 To generate dependency graphs of the developement you will need
-Coq dpd-graph, at least ybertot/coq-dpdgraph@94e7db4ddb1f15cf46d17691cfc5375574053796
+Coq dpd-graph, at least https://github.com/ybertot/coq-dpdgraph/commit/94e7db4ddb1f15cf46d17691cfc5375574053796
