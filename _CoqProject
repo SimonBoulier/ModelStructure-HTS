@@ -1,0 +1,19 @@
+-R . ModelStructure
+-I src
+
+
+src/myrewrite.ml
+src/myrewrite.mllib
+
+MyTacs.v
+Overture.v
+Strict_eq.v
+Category.v
+HTS/Overture.v
+HTS/Path_eq.v
+HTS/Equivalences.v
+# Fibrant_replacement.v
+HTS/Cylinder.v
+HTS/Model_structure.v
+# Examples.v
+HTS/SurjEq.v
