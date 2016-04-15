@@ -9,8 +9,16 @@ MyTacs.v
 Overture.v
 Strict_eq.v
 Category.v
+
 HTS/Overture.v
 HTS/Path_eq.v
 HTS/Equivalences.v
 HTS/Cylinder.v
 HTS/Model_structure.v
+
+CtxFibrancy/Overture.v
+CtxFibrancy/Path_eq.v
+CtxFibrancy/Equivalences.v
+CtxFibrancy/Cylinder.v
+CtxFibrancy/Fibrant_replacement.v
+CtxFibrancy/Model_structure.v
